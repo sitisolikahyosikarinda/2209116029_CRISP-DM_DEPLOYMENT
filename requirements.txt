@@ -6,4 +6,3 @@ seaborn
 plotly.express
 scikit-learn
 joblib
-pickle
